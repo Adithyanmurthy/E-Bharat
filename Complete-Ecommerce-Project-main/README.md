@@ -48,7 +48,7 @@ for admin login use this gmail only :- ** knupadhyay784@gmail.com **
 ## License
 **© All rignts Belong to Bhuvan A**
 
-> Everyone can use only for the **College** purpose no **Commercial** us is allowed.
+> Everyone can use only for the **College** purpose no **Commercial** use is allowed.
 
 ---
 
