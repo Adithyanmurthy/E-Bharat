@@ -1,6 +1,5 @@
 # React + Vite Application
 
-> Live Website link : https://ecommerce-dcc1f.web.app
 
 
 ##### _Softwares used :-_
@@ -45,11 +44,5 @@ node run dev
 for admin login use this gmail only :- ** knupadhyay784@gmail.com **
 ```
 
-## License
-**© All rignts Belong to Bhuvan A**
-
-> Everyone can use only for the **College** purpose no **Commercial** use is allowed.
-
----
 
 
